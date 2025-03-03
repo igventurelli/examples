@@ -5,6 +5,13 @@ This repository serves as a central hub for all the **code examples** featured i
 ## 📌 Projects Overview
 
 ### 1. [**weather-processor**](/weather-processor/)
+
+|Reference|Link|
+|---|---|
+|![Static Badge](https://img.shields.io/badge/blog_post-grey)|[Link](https://igventurelli.io/building-a-data-pipeline-with-apache-camel-processing-weather-data-from-aws-sqs/)|
+|![Static Badge](https://img.shields.io/badge/youtube_video-red)|[Link](https://youtu.be/YduqL4K5hFo?si=9xQaPvMz1goNmIrk)|
+
+
 - A **data pipeline** built with **Apache Camel**.
 - Processes weather data from an external API and applies transformations before storing it.
 - Demonstrates **data routing, integration patterns, and real-world ETL processing**.
