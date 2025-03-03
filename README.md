@@ -4,7 +4,7 @@ This repository serves as a central hub for all the **code examples** featured i
 
 ## 📌 Projects Overview
 
-### 1. [**weather-processor**](/weather-processor/)
+### 1. **weather-processor**
 
 [![Static Badge](https://img.shields.io/badge/blog-post-blue)](https://igventurelli.io/building-a-data-pipeline-with-apache-camel-processing-weather-data-from-aws-sqs) [![Static Badge](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/YduqL4K5hFo?si=9xQaPvMz1goNmIrk)
 
@@ -13,7 +13,7 @@ This repository serves as a central hub for all the **code examples** featured i
 - Processes weather data from an external API and applies transformations before storing it.
 - Demonstrates **data routing, integration patterns, and real-world ETL processing**.
 
-### 2. [**spring-boot-filters-interceptors**](/spring-boot-filters-interceptors/)
+### 2. **spring-boot-filters-interceptors**
 - A **Spring Boot** project that showcases the differences between **Servlet Filters** and **Spring Interceptors**.
 - Includes examples of **request logging, authentication, API rate limiting**, and more.
 - Helps developers understand when to use **Filters vs. Interceptors** effectively.
