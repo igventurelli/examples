@@ -6,10 +6,7 @@ This repository serves as a central hub for all the **code examples** featured i
 
 ### 1. [**weather-processor**](/weather-processor/)
 
-|Reference|Link|
-|---|---|
-|![Static Badge](https://img.shields.io/badge/blog_post-grey)|[Link](https://igventurelli.io/building-a-data-pipeline-with-apache-camel-processing-weather-data-from-aws-sqs/)|
-|![Static Badge](https://img.shields.io/badge/youtube_video-red)|[Link](https://youtu.be/YduqL4K5hFo?si=9xQaPvMz1goNmIrk)|
+[![Static Badge](https://img.shields.io/badge/blog-post-blue)](https://igventurelli.io/building-a-data-pipeline-with-apache-camel-processing-weather-data-from-aws-sqs) [![Static Badge](https://img.shields.io/badge/youtube-video-red)](https://youtu.be/YduqL4K5hFo?si=9xQaPvMz1goNmIrk)
 
 
 - A **data pipeline** built with **Apache Camel**.
