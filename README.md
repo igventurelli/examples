@@ -14,6 +14,9 @@ This repository serves as a central hub for all the **code examples** featured i
 - Demonstrates **data routing, integration patterns, and real-world ETL processing**.
 
 ### 2. **spring-boot-filters-interceptors**
+
+[![Static Badge](https://img.shields.io/badge/blog-post-blue)](https://igventurelli.io/mastering-request-interception-in-spring-boot-filters-vs-interceptors) [![Static Badge](https://img.shields.io/badge/youtube-video-red)](https://www.youtube.com/watch?v=5MCOuiSuIA8)
+
 - A **Spring Boot** project that showcases the differences between **Servlet Filters** and **Spring Interceptors**.
 - Includes examples of **request logging, authentication, API rate limiting**, and more.
 - Helps developers understand when to use **Filters vs. Interceptors** effectively.
