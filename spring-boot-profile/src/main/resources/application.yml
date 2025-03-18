@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active: dev3  # Default profile
+
+---
+spring:
+  config:
+    activate:
+      on-profile: dev3
+app:
+  running:
+    env: development3
+
+---
+spring:
+  config:
+    activate:
+      on-profile: prod3
+app:
+  running:
+    env: production3
